@@ -1,0 +1,792 @@
+{
+  "vaultName": "Obsidian",
+  "lastExport": 1736483106979,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon trim-cols minimal-default-light minimal-atom-dark minimal-readable minimal-dark-tonal colorful-headings links-int-on links-ext-on full-width-media",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "00 - Maps of Content/Yggdrasil.md",
+    "03 - Areas/00 - Maps of Content/Coding MOC.md",
+    "03 - Areas/00 - Maps of Content/Games MOC.md",
+    "03 - Areas/00 - Maps of Content/Literature MOC.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/01 - Songs/Bury the Light - Analysis.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/01 - Songs/Devils Never Cry - Analysis.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Dante - DMC.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Sparda - DMC.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Urizen - DMC5.md",
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Vergil - DMC.md",
+    "03 - Areas/01 - Games/Trophy Hunting.md",
+    "03 - Areas/02 - Coding/01 - Projects/01 - Obsidian Heat Map/01 - No GUI Tag and Path Saver/00 - Code.md",
+    "03 - Areas/02 - Coding/01 - Projects/01 - Obsidian Heat Map/00 - Overview.md",
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - CSV.md",
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - Frontmatter.md",
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - PathLib.md",
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - Tkinter.md",
+    "03 - Areas/02 - Coding/03 - Obsidian Plugins/DataviewJS.md",
+    "03 - Areas/03 - Media/00 - Maps of Content/Poems MOC.md",
+    "03 - Areas/03 - Media/01 - Poems/00 - Maps of Content/William Blake MOC.md",
+    "03 - Areas/03 - Media/01 - Poems/01 - William Blake/William Blake - Love and Harmony.md",
+    "03 - Areas/03 - Media/03 - Movies/00 - Maps of Content/Movies MOC.md",
+    "03 - Areas/03 - Media/03 - Movies/Sonic the Hedgehog 3.md",
+    "05 - Fleeting/00 - Maps of Content/Fleeting MOC.md",
+    "06 - Study/00 - Maps of Content/Study MOC.md",
+    "06 - Study/02 - Japanese/00 - Maps of Content/Japanese Flashcards MOC.md",
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 1.md",
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 2.md",
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 3.md",
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 4.md",
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 7.md",
+    "08 - Excalidraw/00 - Maps of Content/Excalidraw MOC.md",
+    "08 - Excalidraw/Maths/Number Line.excalidraw.md",
+    "99 - Meta/00 - Templates/Folder Specific/(TEMPLATE) Friends and Family Notes.md",
+    "99 - Meta/00 - Templates/Folder Specific/(TEMPLATE) Shows and Movies.md",
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Daily Notes.md",
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Monthly Notes.md",
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Yearly Notes.md",
+    "99 - Meta/00 - Templates/Useful/(TEMPLATE) MOC.md",
+    "99 - Meta/00 - Templates/Useful/(TEMPLATE) Unique Notes.md",
+    "99 - Meta/01 - Web Clipper Templates/default-clipper.json",
+    "99 - Meta/Attachments/Songs/Bury the Light.mp3",
+    "99 - Meta/Attachments/VSauce Theme Song.mp3",
+    "99 - Meta/Pasted image 20250103124551.png",
+    "Clippings/00 - Maps of Content/Clippings MOC.md",
+    "Clippings/Obsidian/Advanced formatting syntax - Obsidian Help.md",
+    "Clippings/Obsidian/Properties - Obsidian Help.md",
+    "README.md",
+    "lib/media/bury-the-light.mp3",
+    "lib/media/pasted-image-20250103124551.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "00 - Maps of Content/Yggdrasil.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 892,
+      "exportedPath": "00-maps-of-content/yggdrasil.html",
+      "dependencies": []
+    },
+    "03 - Areas/00 - Maps of Content/Coding MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 313,
+      "exportedPath": "03-areas/00-maps-of-content/coding-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/00 - Maps of Content/Games MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 308,
+      "exportedPath": "03-areas/00-maps-of-content/games-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/00 - Maps of Content/Literature MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 328,
+      "exportedPath": "03-areas/00-maps-of-content/literature-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/01 - Songs/Bury the Light - Analysis.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 12312,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/01-songs/bury-the-light-analysis.html",
+      "dependencies": [
+        "lib/media/bury-the-light.mp3"
+      ]
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/01 - Songs/Devils Never Cry - Analysis.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/01-songs/devils-never-cry-analysis.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Dante - DMC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/02-characters/dante-dmc.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Sparda - DMC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/02-characters/sparda-dmc.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Urizen - DMC5.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 304,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/02-characters/urizen-dmc5.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/01 - Devil May Cry/02 - Characters/Vergil - DMC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105,
+      "exportedPath": "03-areas/01-games/01-devil-may-cry/02-characters/vergil-dmc.html",
+      "dependencies": []
+    },
+    "03 - Areas/01 - Games/Trophy Hunting.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1075,
+      "exportedPath": "03-areas/01-games/trophy-hunting.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/01 - Projects/01 - Obsidian Heat Map/01 - No GUI Tag and Path Saver/00 - Code.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1886,
+      "exportedPath": "03-areas/02-coding/01-projects/01-obsidian-heat-map/01-no-gui-tag-and-path-saver/00-code.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/01 - Projects/01 - Obsidian Heat Map/00 - Overview.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 2623,
+      "exportedPath": "03-areas/02-coding/01-projects/01-obsidian-heat-map/00-overview.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250103124551.png"
+      ]
+    },
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - CSV.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 109,
+      "exportedPath": "03-areas/02-coding/02-modules/01-python/01-not-mine/python-csv.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - Frontmatter.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 109,
+      "exportedPath": "03-areas/02-coding/02-modules/01-python/01-not-mine/python-frontmatter.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - PathLib.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 109,
+      "exportedPath": "03-areas/02-coding/02-modules/01-python/01-not-mine/python-pathlib.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/02 - Modules/01 - Python/01 - not mine/Python - Tkinter.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 109,
+      "exportedPath": "03-areas/02-coding/02-modules/01-python/01-not-mine/python-tkinter.html",
+      "dependencies": []
+    },
+    "03 - Areas/02 - Coding/03 - Obsidian Plugins/DataviewJS.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 239,
+      "exportedPath": "03-areas/02-coding/03-obsidian-plugins/dataviewjs.html",
+      "dependencies": []
+    },
+    "03 - Areas/03 - Media/00 - Maps of Content/Poems MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 283,
+      "exportedPath": "03-areas/03-media/00-maps-of-content/poems-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/03 - Media/01 - Poems/00 - Maps of Content/William Blake MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 393,
+      "exportedPath": "03-areas/03-media/01-poems/00-maps-of-content/william-blake-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/03 - Media/01 - Poems/01 - William Blake/William Blake - Love and Harmony.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1690,
+      "exportedPath": "03-areas/03-media/01-poems/01-william-blake/william-blake-love-and-harmony.html",
+      "dependencies": []
+    },
+    "03 - Areas/03 - Media/03 - Movies/00 - Maps of Content/Movies MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 183,
+      "exportedPath": "03-areas/03-media/03-movies/00-maps-of-content/movies-moc.html",
+      "dependencies": []
+    },
+    "03 - Areas/03 - Media/03 - Movies/Sonic the Hedgehog 3.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 240,
+      "exportedPath": "03-areas/03-media/03-movies/sonic-the-hedgehog-3.html",
+      "dependencies": []
+    },
+    "05 - Fleeting/00 - Maps of Content/Fleeting MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 310,
+      "exportedPath": "05-fleeting/00-maps-of-content/fleeting-moc.html",
+      "dependencies": []
+    },
+    "06 - Study/00 - Maps of Content/Study MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 298,
+      "exportedPath": "06-study/00-maps-of-content/study-moc.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/00 - Maps of Content/Japanese Flashcards MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 401,
+      "exportedPath": "06-study/02-japanese/00-maps-of-content/japanese-flashcards-moc.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 1.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1830,
+      "exportedPath": "06-study/02-japanese/01-flashcards/japanese-flashcards-unit-1.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 2.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 3427,
+      "exportedPath": "06-study/02-japanese/01-flashcards/japanese-flashcards-unit-2.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 3.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 2141,
+      "exportedPath": "06-study/02-japanese/01-flashcards/japanese-flashcards-unit-3.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 4.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 4016,
+      "exportedPath": "06-study/02-japanese/01-flashcards/japanese-flashcards-unit-4.html",
+      "dependencies": []
+    },
+    "06 - Study/02 - Japanese/01 - Flashcards/Japanese - Flashcards - Unit 7.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 467,
+      "exportedPath": "06-study/02-japanese/01-flashcards/japanese-flashcards-unit-7.html",
+      "dependencies": []
+    },
+    "08 - Excalidraw/00 - Maps of Content/Excalidraw MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 318,
+      "exportedPath": "08-excalidraw/00-maps-of-content/excalidraw-moc.html",
+      "dependencies": []
+    },
+    "08 - Excalidraw/Maths/Number Line.excalidraw.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 12617,
+      "exportedPath": "08-excalidraw/maths/number-line.excalidraw.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Folder Specific/(TEMPLATE) Friends and Family Notes.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 179,
+      "exportedPath": "99-meta/00-templates/folder-specific/(template)-friends-and-family-notes.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Folder Specific/(TEMPLATE) Shows and Movies.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 128,
+      "exportedPath": "99-meta/00-templates/folder-specific/(template)-shows-and-movies.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Daily Notes.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 768,
+      "exportedPath": "99-meta/00-templates/periodic-templates/(template)-daily-notes.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Monthly Notes.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 335,
+      "exportedPath": "99-meta/00-templates/periodic-templates/(template)-monthly-notes.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Periodic Templates/(TEMPLATE) Yearly Notes.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1185,
+      "exportedPath": "99-meta/00-templates/periodic-templates/(template)-yearly-notes.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Useful/(TEMPLATE) MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 321,
+      "exportedPath": "99-meta/00-templates/useful/(template)-moc.html",
+      "dependencies": []
+    },
+    "99 - Meta/00 - Templates/Useful/(TEMPLATE) Unique Notes.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105,
+      "exportedPath": "99-meta/00-templates/useful/(template)-unique-notes.html",
+      "dependencies": []
+    },
+    "99 - Meta/01 - Web Clipper Templates/default-clipper.json": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 740,
+      "exportedPath": "99-meta/01-web-clipper-templates/default-clipper.json",
+      "dependencies": []
+    },
+    "99 - Meta/Attachments/Songs/Bury the Light.mp3": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 23240757,
+      "exportedPath": "99-meta/attachments/songs/bury-the-light.mp3",
+      "dependencies": []
+    },
+    "99 - Meta/Attachments/VSauce Theme Song.mp3": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 2253751,
+      "exportedPath": "99-meta/attachments/vsauce-theme-song.mp3",
+      "dependencies": []
+    },
+    "99 - Meta/Pasted image 20250103124551.png": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 9594,
+      "exportedPath": "99-meta/pasted-image-20250103124551.png",
+      "dependencies": []
+    },
+    "Clippings/00 - Maps of Content/Clippings MOC.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 201,
+      "exportedPath": "clippings/00-maps-of-content/clippings-moc.html",
+      "dependencies": []
+    },
+    "Clippings/Obsidian/Advanced formatting syntax - Obsidian Help.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 4761,
+      "exportedPath": "clippings/obsidian/advanced-formatting-syntax-obsidian-help.html",
+      "dependencies": []
+    },
+    "Clippings/Obsidian/Properties - Obsidian Help.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 8202,
+      "exportedPath": "clippings/obsidian/properties-obsidian-help.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 2244,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "lib/media/bury-the-light.mp3": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 23240757,
+      "exportedPath": "lib/media/bury-the-light.mp3",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250103124551.png": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 9594,
+      "exportedPath": "lib/media/pasted-image-20250103124551.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 45947,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 4541,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 228400,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 311,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 3156,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1736483106979,
+      "sourceSize": 17285,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
