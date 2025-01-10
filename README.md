@@ -1,5 +1,5 @@
 # Welcome!
-Hello, and welcome back to another attempt at making a website. Whether you know me, or not, enjoy the slew of information now available... when I remember to update the website. Right now, I will **aim** to update this once a week. If you notice gaps in my folders, that's because I excluded them. For my vault exporting, I use [this plugin](obsidian://show-plugin?id=webpage-html-export). If you have the time, check them out! I majorly recommend them.
+Hello, and welcome back to another attempt at making a website. Whether you know me, or not, enjoy the slew of information now available... when I remember to update the website. Right now, I will **aim** to update this once a week. If you notice gaps in my folders, that's because I excluded them. For my vault exporting, I use [this plugin](obsidian://show-plugin?id=webpage-html-export). If you have the time, check them out! I majorly recommend them. (apologies for the bad look on here, just start at https://wellome.github.io/thirdobsidianattempt )
 
 # Information about me
 I'm not one to put *too* much information about myself on the internet, but as of the 1st of January, 2025, here is what I use for Obsidian:
